@@ -1,0 +1,33 @@
+[
+    {
+        "name": "JavaScript",
+        "subtitle": "Programming Language",
+        "link": "https://developer.mozilla.org/docs/Web/JavaScript",
+        "icon": "javascript-icon.png"
+    },
+    {
+        "name": "React",
+        "subtitle": "JavaScript Library",
+        "link": "https://reactjs.org/",
+        "icon": "react-icon.png"
+    },
+    {
+        "name": "Git",
+        "subtitle": "Version Control System",
+        "link": "https://git-scm.com/",
+        "icon": "git-icon.png"
+    },
+    {
+        "name": "AWS",
+        "subtitle": "Cloud Platform",
+        "link": "https://aws.amazon.com/",
+        "icon": "aws-icon.png"
+    },
+    {
+        "name": "HTML",
+        "subtitle": "Markup Language",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "icon": "html-icon.png"
+    }
+]
+

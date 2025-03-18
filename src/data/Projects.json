@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Portfolio Website",
+        "description": "A sleek React and Tailwind portfolio website.",
+        "image": "/assets/projects/portfolio.png",
+        "github": "https://github.com/kishan/portfolio",
+        "live": "https://kishan.netlify.app"
+    },
+    {
+        "id": 2,
+        "title": "MovieLand",
+        "description": "A React-based movie listing app using OMDb API.",
+        "image": "/assets/projects/movieland.png",
+        "github": "https://github.com/kishan/movieland",
+        "live": "https://movieland.netlify.app"
+    },
+    {
+        "id": 3,
+        "title": "Weather App",
+        "description": "A simple weather app using OpenWeatherMap API.",
+        "image": "/assets/projects/weather.png",
+        "github": "https://github.com/kishan/weather-app",
+        "live": "https://weather-app-kishan.netlify.app"
+    },
+    {
+        "id": 4,
+        "title": "Todo App",
+        "description": "A simple todo app using React and LocalStorage.",
+        "image": "/assets/projects/todo.png",
+        "github": "https://github.com/kishan/todo-app",
+        "live": "https://todo-app-kishan.netlify.app"
+    },
+    {
+        "id": 5,
+        "title": "Calculator",
+        "description": "A simple calculator app using React.",
+        "image": "/assets/projects/calculator.png",
+        "github": "https://github.com/kishan/calculator",
+        "live": "https://calculator-kishan.netlify.app"
+    }
+]

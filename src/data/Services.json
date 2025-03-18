@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "description": "We develop responsive, interactive and scalable web applications using latest technologies like React, Angular, Vue, Node.js, Express, Ruby on Rails, Django, etc.",
+        "image": "/assets/services/web-development.png"
+    },
+    {
+        "id": 2,
+        "title": "E-commerce Solutions",
+        "description": "We design and develop custom e-commerce solutions using Shopify, Magento, WooCommerce, etc. to help you sell your products online.",
+        "image": "/assets/services/e-commerce.png"
+    },
+    {
+        "id": 3,
+        "title": "Web Design",
+        "description": "We design visually appealing, user-friendly and responsive websites that are optimized for search engines and provide great user experience.",
+        "image": "/assets/services/web-design.png"
+    },
+    {
+        "id": 4,
+        "title": "Mobile App Development",
+        "description": "We develop native and cross-platform mobile apps for Android and iOS using React Native, Flutter, Ionic, etc.",
+        "image": "/assets/services/mobile-app-development.png"
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing",
+        "description": "We provide digital marketing services like SEO, PPC, Social Media Marketing, Email Marketing, etc. to help you reach your target audience.",
+        "image": "/assets/services/digital-marketing.png"
+    }
+]
