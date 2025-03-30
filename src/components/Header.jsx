@@ -22,7 +22,7 @@ function Header() {
                 initial={{ height: "auto" }}
                 animate={{ height: isOpen ? "auto" : "auto" }}
                 transition={{ duration: 0.5 }}
-                className="container mx-auto px-6 flex flex-col justify-between items-center py-6"
+                className="container md:max-w-[1440px] mx-auto flex flex-col justify-between items-center py-6"
             >
                 <div className="flex justify-between items-center w-full">
                     <div className="flex items-center space-x-8">
